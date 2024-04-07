@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me you can reach me with the help of Email:-surajk38656@gmail.com
 - 😄 Pronouns: He/His
-- 🥰 Reach Out My Portfolio : Web https://responsive-web-wheat.vercel.app/
-- ✌️ Reach Out My Project : https://petbowls.vercel.app/
-- ⚡ Fun fact: ...
+- 🥰 Reach Out My Portfolio Web : https://responsive-web-wheat.vercel.app/
+- ✌️ Reach Out My Project (Petstore) : https://petbowls.vercel.app/
+- ⚡ Fun fact: Code is Fun ~ Fun is Code
 
 <!---
 suraj-raj01/suraj-raj01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
