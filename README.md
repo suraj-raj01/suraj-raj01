@@ -7,7 +7,7 @@
 - 🥰 Reach Out My Portfolio Web : https://responsive-web-wheat.vercel.app/
 - ✌️ Reach Out My DashBoard Web : https://dash-board-kappa.vercel.app/  (Responsive:- Only for Laptop)
 - ✌️ Reach Out My Project (Petstore) : https://petbowls.vercel.app/
-- ⚡ Fun fact: Code is Fun ~ Fun is Code
+- ⚡ Fun fact: eat->sleep->code->repeat🔁
 
 <!---
 suraj-raj01/suraj-raj01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
