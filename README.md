@@ -1,7 +1,7 @@
 - 👋 Hi, I’m 'SURAJ KUMAR'
-- 👀 I’m interested in FullStack Development.
+- 👀 I’m looking to collaborate on React Project 
 - 🌱 I’m currently pursing B.Tech with CSE stream form RNTU Bhopal (MP)
-- 💞️ I’m looking to collaborate on React Project 
+- 💞️ JAVA Full stack Development..
 - 📫 How to reach me : surajk38656@gmail.com
 - 😄 Pronouns: He/His
 - 🥰 Reach Out My Portfolio Web : https://responsive-web-wheat.vercel.app/
