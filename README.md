@@ -1,4 +1,4 @@
-- 👋 Hi, I’m **'SURAJ KUMAR'**
+# Hi There I am Suraj Kumar
 - 👀 I’m looking to collaborate on **React Project**
 - 🌱 I’m currently pursing B.Tech with **CSE** stream form **RNTU** Bhopal (MP)
 - 💞️ JAVA **Fullstack** Development..
