@@ -1,4 +1,4 @@
-# Hi There I am Suraj Kumar
+# HEY THERE I'M SURAJ KUMAR
 - 👀 I’m looking to collaborate on **React Project**
 - 🌱 I’m currently pursing B.Tech with **CSE** stream form **RNTU** Bhopal (MP)
 - 💞️ JAVA **Fullstack** Development..
@@ -13,8 +13,7 @@
 
 
 
-
-- **LinkedIn Profile**
+# LinkedIn Profile
 - https://www.linkedin.com/in/suraj-kumar-1965b0296/
 - **Dashboard(Reactjs)**
 - https://dash-board-react-five.vercel.app/
