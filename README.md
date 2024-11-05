@@ -6,8 +6,7 @@
 - 😄 Pronouns: He/His
 - **⚡ Fun fact:**
  
- ![image](https://github.com/user-attachments/assets/c0b2371b-c37a-466c-bce6-1b3caf28dc0a)
-
+ ![image](https://github.com/user-attachments/assets/f1f8f7f1-9c17-4d10-a866-22b578124b32)
 
 
 
