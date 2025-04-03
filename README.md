@@ -1,5 +1,5 @@
 # HEY THERE I'M SURAJ KUMAR
-- 👀 I’m looking to collaborate on **React Project**
+- 👀 I’m looking to collaborate on **MERN Based Projects**
 - 🌱 I’m currently pursing B.Tech with **CSE** stream form **RNTU** Bhopal (MP)
 - 💞️ MERN **Fullstack** Development..
 - 📫 How to reach me : **surajk38656@gmail.com**
