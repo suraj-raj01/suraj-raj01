@@ -8,12 +8,13 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m looking to collaborate on **MERN-based Projects**
+- 🔭 I’m open to collaborating on **Fullstack MERN & Next.js Projects**
+- 🌱 Currently mastering **Next.js** and **API Integrations**
 - 🎓 Pursuing B.Tech in **Computer Science & Engineering** from **RNTU, Bhopal (MP)**
-- 💻 Passionate about **Fullstack Development (MERN Stack)**
+- 💻 Passionate about building scalable web apps with **clean architecture & modular code**
 - 📫 Reach me at: [surajk38656@gmail.com](mailto:surajk38656@gmail.com)
 - 😄 Pronouns: **He/His**
-- ⚡ Fun fact: I can turn coffee into code faster than you say "JavaScript"!
+- ⚡ Fun fact: I can turn coffee into code faster than you say *"JavaScript!"*
 
 ---
 
@@ -23,6 +24,11 @@
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 
 ---
 
@@ -44,4 +50,4 @@
 
 ---
 
-> *"Striving to build impactful solutions with clean code and powerful tools."*
+> *"Committed to building impactful solutions using clean code, powerful tools, and modern frameworks like Next.js & React."*
