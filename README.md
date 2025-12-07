@@ -10,7 +10,7 @@
 
 - 🔭 I’m open to collaborating on **Fullstack MERN & Next.js Projects**
 - 🌱 Currently mastering **Next.js** and **API Integrations**
-- 🎓 Pursuing B.Tech in **Computer Science & Engineering** from **RNTU, Bhopal (MP)**
+- 🎓 Completed B.Tech in **Computer Science & Engineering** from **RNTU, Bhopal (MP)**
 - 💻 Passionate about building scalable web apps with **clean architecture & modular code**
 - 📫 Reach me at: [surajk38656@gmail.com](mailto:surajk38656@gmail.com)
 - 😄 Pronouns: **He/His**
