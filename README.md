@@ -1,8 +1,4 @@
-<h1 align="center">Hey there, I'm Suraj Kumar! 👋</h1>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/f1f8f7f1-9c17-4d10-a866-22b578124b32" alt="Suraj Kumar" width="250"/>
-</p>
+<h1 align="start">Hey there, I'm Suraj Kumar! 👋</h1>
 
 ---
 
