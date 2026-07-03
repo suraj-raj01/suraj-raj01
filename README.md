@@ -1,110 +1,109 @@
-<h1 align="center">Hi 👋, I'm Suraj Kumar</h1>
-<h3 align="center">🚀 Fullstack MERN & Next.js Developer | Clean Code Enthusiast</h3>
+<div align="center">
 
-<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Suraj+Kumar;Fullstack+MERN+%26+Next.js+Developer;Clean+Code+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
+
+<p>
 Building scalable web applications using modern technologies like <b>React, Next.js, Node.js, and MongoDB</b>.
 </p>
+
+<a href="https://www.linkedin.com/in/suraj-kumar-1965b0296/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:surajk38656@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/suraj-raj01">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 I’m open to collaborating on **Fullstack MERN & Next.js Projects**
-- 🌱 Currently mastering **Next.js, Server Components & API Integrations**
-- 🎓 Completed **B.Tech in Computer Science & Engineering** from **RNTU, Bhopal (MP)**
-- 💻 Passionate about building **scalable web apps with clean architecture**
+- 🔭 Currently building **TalentDeck**, an ATS (Applicant Tracking System) with Next.js, TypeScript, Tailwind CSS & shadcn/ui
+- 💼 Working as a **Full Stack Developer** on MERN-based Education Portals, CRM Systems & E-commerce Platforms
+- 🌱 Currently deepening my skills in **Next.js Server Components & API design**
+- 🎓 Completing my **B.E. in Computer Science & Engineering** at Rabindranath Tagore University
+- 🤝 Open to collaborating on **Fullstack MERN & Next.js projects**
 - 📫 Reach me at **surajk38656@gmail.com**
-- 😄 Pronouns: **He / His**
-- ⚡ Fun fact: **I turn coffee ☕ into JavaScript code faster than you say "async await"!**
+- ⚡ Fun fact: I turn coffee ☕ into JavaScript code faster than you can say "async await"
 
 ---
 
-# 🛠️ Tech Stack
+## 🧰 Tech Stack
 
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
+**Languages & Frontend**
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
-![Redux](https://img.shields.io/badge/-Redux-3178C6?logo=redux&logoColor=white&style=for-the-badge)
-![Context](https://img.shields.io/badge/-context-007ACC?logo=react&logoColor=white&style=for-the-badge)
-![JQUERY](https://img.shields.io/badge/-JQUERY-F05032?logo=JQUERY&logoColor=white&style=for-the-badge)
-![Framer](https://img.shields.io/badge/-Framer-38B2AC?logo=Framer&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
+![MUI](https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=white&style=for-the-badge)
+![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?logo=framer&logoColor=white&style=for-the-badge)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge)
+
+**Backend & APIs**
+
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge)
-![REST](https://img.shields.io/badge/-rest-F05032?logo=rest&logoColor=white&style=for-the-badge)
+![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=white&style=for-the-badge)
+![Socket.io](https://img.shields.io/badge/-Socket.io-010101?logo=socket.io&logoColor=white&style=for-the-badge)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge)
+
+**Databases**
+
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?logo=mongodb&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![Vite](https://img.shields.io/badge/-vite-007ACC?logo=vite&logoColor=white&style=for-the-badge)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=for-the-badge)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge)
-![Socket.io](https://img.shields.io/badge/-socket-000000?logo=socket&logoColor=white&style=for-the-badge)
-![Nodemon](https://img.shields.io/badge/-nodemon-F7DF1E?logo=nodemon&logoColor=white&style=for-the-badge)
-![NPM](https://img.shields.io/badge/-npm-DC382D?logo=npm&logoColor=white&style=for-the-badge)
-![Vercel](https://img.shields.io/badge/-vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)
-![Render](https://img.shields.io/badge/-render-4EA94B?logo=render&logoColor=white&style=for-the-badge)
-![JWT](https://img.shields.io/badge/-jwt-000000?logo=jwt&logoColor=white&style=for-the-badge)
-![Chart.js](https://img.shields.io/badge/-chart.js-F05032?logo=chart.js&logoColor=white&style=for-the-badge)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-61DAFB?logo=Bootstrap&logoColor=white&style=for-the-badge)
-![Supabase](https://img.shields.io/badge/-Supabase-38B2AC?logo=Supabase&logoColor=white&style=for-the-badge)
-![Prisma](https://img.shields.io/badge/-Prisma-F7DF1E?logo=Prisma&logoColor=white&style=for-the-badge)
-![MUI](https://img.shields.io/badge/-MUI-3178C6?logo=MUI&logoColor=white&style=for-the-badge)
-![Figma](https://img.shields.io/badge/-Figma-F05032?logo=Figma&logoColor=white&style=for-the-badge)
-<img width="122" height="28" alt="antdesign" src="https://github.com/user-attachments/assets/377bf425-b7d4-435a-a302-3e03f9ff121a" />
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge)
+
+**Tools & DevOps**
+
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
+![Nodemon](https://img.shields.io/badge/-Nodemon-76D04B?logo=nodemon&logoColor=white&style=for-the-badge)
+![NPM](https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white&style=for-the-badge)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)
+![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=white&style=for-the-badge)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
+![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?logo=chart.js&logoColor=white&style=for-the-badge)
 
 ---
 
-# 🌐 Connect With Me
+## 📊 GitHub Stats
 
-<p align="left">
-<a href="https://www.linkedin.com/in/suraj-kumar-1965b0296/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-<a href="mailto:surajk38656@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
-</a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suraj-raj01&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suraj-raj01&theme=tokyo-night" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=suraj-raj01&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
-# 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
+### 👀 Profile Visitors
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=suraj-raj01&show_icons=true&theme=tokyonight" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suraj-raj01&layout=compact&theme=tokyonight" />
-
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=suraj-raj01&theme=tokyonight" />
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=suraj-raj01&theme=tokyo-night" />
-</p>
-
----
-
-# 👀 Profile Visitors
-
-<p align="center">
 <img src="https://komarev.com/ghpvc/?username=suraj-raj01&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
 
----
+<br/><br/>
 
-<h3 align="center">⭐ Building modern, scalable and performant web applications</h3>
-<p align="center">
-"Clean code + modern frameworks = powerful applications"
-</p>
+<i>"Clean code + modern frameworks = powerful applications"</i>
+
+</div>
